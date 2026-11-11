@@ -1,0 +1,8 @@
+# Core dependencies
+opencv-python
+mediapipe
+numpy
+pyautogui
+
+# Optional: faster keyboard event handling
+keyboard
